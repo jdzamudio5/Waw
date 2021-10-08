@@ -1,0 +1,3 @@
+logica\Persona.class
+persistencia\ConexionBD.class
+persistencia\PersonaDAO.class
